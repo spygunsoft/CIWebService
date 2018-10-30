@@ -1,0 +1,41 @@
+html,body {
+	height:100%;
+	}
+	
+.spacer {
+	height:65px;
+}
+
+
+#logo {
+	width:30px;
+	height:30px;
+	margin-top:-5px;
+}
+
+.borderline {
+	width:100%;
+	border-bottom: thin dashed #999999;
+	margin-bottom: 10px;
+}
+
+.glyphicon-custom {	
+	margin:0px 5px 0px 5px;
+}
+
+.navbar-custom > span{
+	position:relative;
+}
+
+.ui-effects-transfer {
+	border: 1px dashed #999;
+}
+
+#section-home,#section-historiography{
+	height:100%;
+}
+
+
+@media screen and (max-width: 768px) {
+
+}
