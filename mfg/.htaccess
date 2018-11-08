@@ -3,7 +3,7 @@
     RewriteEngine On
     
     #The base folder (where index.php is found)
-    RewriteBase /majapahit/
+    RewriteBase /mfg/
 
     #Removes access to the system folder by users.
     
